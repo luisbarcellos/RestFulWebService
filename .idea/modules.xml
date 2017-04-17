@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RESTFullWebService.iml" filepath="$PROJECT_DIR$/.idea/modules/RESTFullWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RESTFullWebService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RESTFullWebService_main.iml" group="RESTFullWebService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RESTFullWebService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RESTFullWebService_test.iml" group="RESTFullWebService" />
+    </modules>
+  </component>
+</project>
